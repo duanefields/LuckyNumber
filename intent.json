@@ -1,0 +1,13 @@
+{
+  "intents": [
+    {
+      "intent": "GetLuckyNumbers",
+      "slots": [
+        {
+          "name": "UpperLimit",
+          "type": "AMAZON.NUMBER"
+        }
+      ]
+    }
+  ]
+}
